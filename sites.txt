@@ -1,0 +1,11 @@
+https://www.google.com/search?biw=1366&bih=657&ei=dEpYXvPINp3I5OUPzsmt0Aw&q=jcolorchooser&oq=jcolorchooser&gs_l=psy-ab.3..0i7i30j0i67j0i7i30l6j0i30l2.35139.35139..35292...0.0..0.101.197.1j1......0....1..gws-wiz.z1rLAhlER6Q&ved=0ahUKEwjz0viw6_LnAhUdJLkGHc5kC8oQ4dUDCAs&uact=5
+
+https://www.devmedia.com.br/inserindo-um-color-chooser-em-suas-aplicacoes/1670
+
+http://www.lac.inpe.br/~rafael.santos/Docs/SEMAC-UNESP/2009/apgraf.pdf
+
+http://www.java2s.com/Tutorial/Java/0240__Swing/UseaColorChooser.htm
+
+http://www.java2s.com/Tutorial/Java/0240__Swing/CreatingandShowingaJColorChooserPopUpWindow.htm
+
+https://respostas.guj.com.br/1278-como-chamar-um-jframe-por-um-jbutton

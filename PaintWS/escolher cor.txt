@@ -1,0 +1,71 @@
+import java.awt.BorderLayout;
+import java.awt.Color;
+import java.awt.event.ActionEvent;
+
+import javax.swing.JButton;
+import javax.swing.JColorChooser;
+import javax.swing.JComponent;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.event.ChangeEvent;
+import javax.swing.event.ChangeListener;
+
+
+
+
+/*public class EscolheCor extends JFrame 
+{
+	JColorChooser caixadeCores = new JColorChooser();
+	protected JButton btnOk = new JButton("OK"),
+					  btnCancel = new JButton("Cancelar");
+	
+	protected JPanel pnlBotoes = new JPanel ();
+	
+	
+	protected Color cor;
+	
+	
+	public EscolheCor()
+	{
+		configurarJanela();
+		add(BorderLayout.CENTER,caixadeCores);
+		add(BorderLayout.SOUTH,pnlBotoes);
+		
+		
+		pnlBotoes.add(btnOk);
+		pnlBotoes.add(btnCancel);
+		
+		caixadeCores.getSelectionModel().addChangeListener(new ChangeListener() 
+		{
+			
+			public void stateChanged(ChangeEvent e)
+			{
+				Color corAtual = caixadeCores.getColor();
+				cor=corAtual;
+				
+			}
+		});
+		
+
+		
+					
+	}
+	
+	public void configurarJanela()
+	{
+		setTitle("Escolha a cor");
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setSize(600,500);
+		setLocationRelativeTo(null);
+		setVisible(true);
+	}
+	
+	public Color cor ()
+	{
+		return cor;
+	}
+	
+	
+	
+	
+}*/
